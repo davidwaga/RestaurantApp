@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RestaurantApp</string>
+    <string name="login_text">Login Screen</string>
+    <string name="signup_text">Signup Screen</string>
+    <string name="title_activity_favorite">Favorites</string>
+    <string name="click_here_to_sign_up">Click Here to Sign Up</string>
+    <string name="textview">TextView</string>
+    <string name="time_to_delivery">Time to Delivery:</string>
+    <string name="thank_you_for_your_order_we_should_get_back_to_you_shortly">Thank you for your order we should get
+        back to you shortly.
+    </string>
+
+</resources>
